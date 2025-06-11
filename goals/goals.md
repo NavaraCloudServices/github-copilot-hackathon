@@ -9,10 +9,10 @@
 
 ---
 
-## 🔧 Advanced-Level GitHub Copilot Hackathon Activities
+## 🔧 Intermediate-Level GitHub Copilot Hackathon Activities
 
 | #   | Activity                                | Skill Level | Copilot Feature             | Description                                                                                                                              | Iteration Notes |
 |-----|-----------------------------------------|-------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| 5   | Role-Based Prompting for Test Advice    | Advanced    | Copilot Chat / Role Prompting| Use Copilot Chat with a role prompt (e.g., "Act as a senior test engineer") to get advice on best practices for setting up tests for a legacy code base; Goal: leverage expert guidance for robust test strategies. |                 |
-| 6   | Generate Unit Tests                     | Advanced    | Test Generation / Chat       | Use Copilot to write unit tests for untested functions; Goal: learn test structure and improve coverage with AI assistance.              |                 |
-| 7   | Debug with Stacktrace Assistance        | Advanced    | Copilot Chat                 | Paste a stack trace into Copilot Chat and ask for help; Goal: interpret errors and get suggestions to resolve them.                      |                 |
+| 5   | Role-Based Prompting for Test Advice    | Intermediate    | Copilot Chat / Role Prompting| Use Copilot Chat with a role prompt (e.g., "Act as a senior test engineer") to get advice on best practices for setting up tests for a legacy code base; Goal: leverage expert guidance for robust test strategies. |                 |
+| 6   | Generate Unit Tests                     | Intermediate    | Test Generation / Chat       | Use Copilot to write unit tests for untested functions; Goal: learn test structure and improve coverage with AI assistance.              |                 |
+| 7   | Debug with Stacktrace Assistance        | Intermediate    | Copilot Chat                 | Paste a stack trace into Copilot Chat and ask for help; Goal: interpret errors and get suggestions to resolve them.                      |                 |
