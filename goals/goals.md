@@ -5,7 +5,7 @@
 | 1   | Create a Function from Its Signature    | Beginner    | Inline Suggestions           | Start with just a function name and parameters, and let Copilot suggest the body; Goal: understand how naming influences suggestions.     |                 |
 | 2   | Generate Function from Comment          | Beginner    | Inline Suggestions           | Use a descriptive comment to prompt Copilot to generate logic; Goal: practice "prompting" Copilot naturally using just comments.         |                 |
 | 3   | Use Chat to Explain a Function          | Beginner    | Copilot Chat                 | Highlight a confusing function and ask Copilot Chat what it does; Goal: use AI to understand existing code quickly.                      |                 |
-| 4   | Generate a Module README                  | Beginner    | Copilot Chat / Suggestions   | Let Copilot create a professional README for a self-chosen module from your codebase; Goal: challenge yourself to select a module, use Copilot to generate a README, and then critically review the README for accuracy and completeness. |                 |
+| 4   | Generate a Module README                  | Beginner    | Copilot Chat                 | Let Copilot create a professional README for a self-chosen module from your codebase; Goal: challenge yourself to select a module, use Copilot to generate a README, and then critically review the README for accuracy and completeness. |                 |
 
 ---
 
